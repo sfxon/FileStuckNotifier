@@ -1,0 +1,7 @@
+bin
+/src/Application.CommandLine/obj
+/src/Application.CommandLine/Application.CommandLine.csproj.user
+/src/.vs/MindfavBackupTools/DesignTimeBuild/.dtbcache.v2
+.vs
+/src/Application.CommandLine/Properties/launchSettings.json
+obj

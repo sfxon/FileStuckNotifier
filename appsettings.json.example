@@ -1,0 +1,9 @@
+{
+	"AppSettings": {
+		"MailHostname": "",
+		"MailPort": "587",
+		"MailUsername": "",
+		"MailPassword": "",
+		"ProjectName": "Mein Projektname
+	}
+}

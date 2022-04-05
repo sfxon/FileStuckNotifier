@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileStuckNotifier": {
+      "commandName": "Project",
+      "commandLineArgs": "notifyIfFolderIsNotEmpty \"c:\\test\""
+    }
+  }
+}
