@@ -8,7 +8,10 @@ A simple C# Application, aimed to inform you, if a directory is not empty. Sends
 4. Done
 
 ## Usage
-* Call from command line like this:<br />
-FileStuckNtoifier.exe notifyIfFolderIsNotEmpty &lt;folder&gt;<br />
-Replace **&lt;folder&gt;** with the path of the directory you want to check.
+Call from command line like this:
 
+```
+FileStuckNtoifier.exe notifyIfFolderIsNotEmpty &lt;folder&gt;
+```
+
+Replace **&lt;folder&gt;** with the path of the directory you want to check.
